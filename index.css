@@ -1,0 +1,111 @@
+body {
+    background-color: #1C1C1C;
+     display: flex;
+     font-family: 'Fredoka One', cursive;
+ }
+ h1{
+    font-size: 30px;
+ }
+
+ h5{
+    margin-top: 5px;
+    text-align: right;
+    -webkit-text-fill-color: #CCC1FF;
+ }
+ 
+ #outer{
+     
+     background-color: #1F2937;
+     height: 700px;
+     width: 550px;
+     margin-top:20px;
+     margin: 45px auto;
+     background-color: #6943FF;
+ }
+ 
+ #upper{
+     margin-top: 50px;
+     text-align: center;
+     -webkit-text-fill-color: white;
+ }
+ 
+ #number-el{
+     font-size: 60px;
+     width:120px;
+     margin-left: 20px;
+     margin-right: 20px;
+     margin-bottom: 20px;
+     border-radius: 8px;
+     border-style: solid;
+     border-color: white;
+     background-color: #6943FF;
+     text-align: center;
+ }
+ #convert-btn{
+     -webkit-text-fill-color: black;
+     font-size: 20px;
+     border:none;
+     border-radius: 5px;
+     width: 112px;
+     height: 40px;
+     margin-bottom: 30px;
+ }
+ 
+ #convert-btn:hover{
+     background-color: skyblue;
+ }
+ 
+ #lower{
+     height: 450px;
+     background-color: #1F2937;
+     text-align:center;
+ }
+ #length{
+     position: absolute;
+     width: 500px;
+     height: 80px;
+     margin-left:20px;
+     top: 350px;
+ 
+     background: #273549;
+     border-radius: 15px 0px 15px 0px;
+     
+     padding-top: 30px;
+     font-size: 20px;
+     -webkit-text-fill-color:  #CCC1FF;
+ }
+ 
+ #volume{
+     position: absolute;
+     width: 500px;
+     height: 80px;
+     margin-left:20px;
+     top: 500px;
+ 
+     background: #273549;
+     border-radius: 15px 0px 15px 0px;
+     
+     padding-top: 30px;
+     font-size: 20px;
+     -webkit-text-fill-color:  #CCC1FF;
+ }
+ 
+ #mass{
+     position: absolute;
+     width: 500px;
+     height: 80px;
+     margin-left:20px;
+     top: 650px;
+ 
+     background: #273549;
+     border-radius: 15px 0px 15px 0px;
+     
+     padding-top: 30px;
+     font-size: 20px;
+     -webkit-text-fill-color:  #CCC1FF;
+ }
+ 
+ p{
+     -webkit-text-fill-color: white;
+     font-size: 16px; 
+ }
